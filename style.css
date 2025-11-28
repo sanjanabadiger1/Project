@@ -115,7 +115,7 @@ header .icons a:hover{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(../image4.png) no-repeat;
+    background: url(./images/image4.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
